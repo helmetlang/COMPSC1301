@@ -6,9 +6,13 @@
 # FIXME: Note: Use a for loop and DO NOT use recursion.
 
 def fibonacci(n):
-    # FIXME: Type your code here. 
+    # FIXME: Type your code here.
 
 
 if __name__ == '__main__':
     start_num = int(input())
     print(f'fibonacci({start_num}) is {fibonacci(start_num)}')
+    
+    
+# Fn = Fn-1+Fn-2
+
