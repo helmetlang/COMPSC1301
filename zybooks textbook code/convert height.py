@@ -11,9 +11,7 @@ def height_US_to_cm(feet, inches):
     total_inches = feet * INCHES_PER_FOOT + inches
     cm = total_inches * CM_PER_INCH
     return cm
-	
 
-	
 centimeters = height_US_to_cm(feet, inches)
 print('Centimeters:', centimeters)
 
