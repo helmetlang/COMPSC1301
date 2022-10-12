@@ -1,4 +1,4 @@
-# COMPSCI1301
+# COMPSCI1301 in Python
 
 python class for Bryson Payne
 
