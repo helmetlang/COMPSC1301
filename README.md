@@ -11,5 +11,5 @@
 - Stackoverflow.com **(goated)
 - Codeacademy
 - Udacity
-- theprogrammingexpert.com
-- freecodecamp.org
+- Theprogrammingexpert.com
+- Freecodecamp.org
