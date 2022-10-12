@@ -1,6 +1,6 @@
 # Chapter 1.3
 
-Each call to print() outputs a new line. However, Sometimes a programmer may want to keep the output on the same line in java this is like println and print, print would make it same line but in python.
+- Each call to print() outputs a new line. However, Sometimes a programmer may want to keep the output on the same line in java this is like println and print, print would make it same line but in python.
 Which is where "end= ' ') comes from
 
 ## Sytnax
