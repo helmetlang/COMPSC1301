@@ -15,6 +15,6 @@ An assignment statement's left side MUST be a variable, meaning you can not assi
 
 ### Example
 
-    var_car = int(input)
-    Is valid because it is assigned on the left side
-    However int(input) = var_car, is not valid.
+    - var_car = int(input)
+    - Is valid because it is assigned on the left side
+    - However int(input) = var_car, is not valid.
