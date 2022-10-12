@@ -18,4 +18,4 @@
 
 # FIXME: about the midterm
 # 60 questions + 10 point bonus programming problem
-# Furtherst in zybooks is 6.7, 6.8 will not be on midterm
+# Farthest in zybooks is 6.7, 6.8 will not be on midterm
