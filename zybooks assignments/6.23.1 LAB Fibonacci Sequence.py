@@ -6,23 +6,25 @@
 # FIXME: Note: Use a for loop and DO NOT use recursion.
 
 def fibonacci(n):
-    result = 0
-    # if n = 0 return 0
-    # elseif: anything else return 1
-    if n == 0:
-        return 0
-    elif n == 1:
-        return 1
-    elif n != 0: 
-        return 1  
-    return result
+  if n < 0:
+    print("Please enter a positive number")
+    return -1
 
+  previous_1 = 0
+  previous_2 = 1
+  
+  if n == 0:
+    return previous_1
+  elif n == 1:
+    return previous_2
+  else:
+    # calculate fibonacci
+    for _ in range(2, n + 1):
+      next_val = previous_1 + previous_2
+      previous_1 = previous_2
+      previous_2 = next_val
 
-
-
+    return next_val
 if __name__ == '__main__':
-    start_num = int(input())
+    start_num = int(input("Enter a fibonacci number: "))
     print(f'fibonacci({start_num}) is {fibonacci(start_num)}')
-
-# Fn = Fn1 + Fn2
-# 
