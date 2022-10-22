@@ -19,3 +19,5 @@
 # FIXME: about the midterm
 # 60 questions + 10 point bonus programming problem
 # Farthest in zybooks is 6.7, 6.8 will not be on midterm
+
+# ctrl / makes highlighted code into comments
