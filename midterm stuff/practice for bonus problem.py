@@ -2,7 +2,7 @@
 # draw a tree of a certain height
 
 # draw_tree(3) # limit 20
-#   ---*--- # row = 0 and needs 3 spaces, 1 star
+#   ---*--- # row = 0 and needs 3 spaces, 1 stars
 #   --***-- # row 1, 2 spaces, 3 stars
 #   -*****- # row 2, 1 space, 5 stars
 #  "---*---"
@@ -29,4 +29,3 @@ print(draw_tree(number, symbol))
 # FIXME: make sure to remove comments late
 # draw_tree(3)
 # draw_tree(5)
-
