@@ -24,7 +24,14 @@ def fibonacci(n):
       previous_1 = previous_2
       previous_2 = next_val
 
+
     return next_val
+
+
+    return next_val
+
+# the code actually starts from here because of the __name__ == '__main__'
+
 if __name__ == '__main__':
     start_num = int(input())
     print(f'fibonacci({start_num}) is {fibonacci(start_num)}')
