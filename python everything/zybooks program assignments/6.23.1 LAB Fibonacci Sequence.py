@@ -27,9 +27,6 @@ def fibonacci(n):
 
     return next_val
 
-
-    return next_val
-
 # the code actually starts from here because of the __name__ == '__main__'
 
 if __name__ == '__main__':
